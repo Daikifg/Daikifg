@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Daikifg/thirdRepo](https://github.com/Daikifg/thirdRepo)<br>
-2. 📔 Created new repository [Daikifg/thirdRepo](https://github.com/Daikifg/thirdRepo)<br>
-3. ⬆️ Pushed 2 commit(s) to [Daikifg/myFourtyRepo](https://github.com/Daikifg/myFourtyRepo)<br>
-4. 🎉 Merged PR [#3](https://github.com/Daikifg/myFourtyRepo/pull/3) in [Daikifg/myFourtyRepo](https://github.com/Daikifg/myFourtyRepo)<br>
-5. 💪 Opened PR [#3](https://github.com/Daikifg/myFourtyRepo/pull/3) in [Daikifg/myFourtyRepo](https://github.com/Daikifg/myFourtyRepo)<br>
+1. ✌️ Released [v0.1.0 ](https://github.com/Daikifg/thirdRepo/releases/tag/v0.1.0) in [Daikifg/thirdRepo](https://github.com/Daikifg/thirdRepo)<br>
+2. ⬆️ Pushed 1 commit(s) to [Daikifg/thirdRepo](https://github.com/Daikifg/thirdRepo)<br>
+3. 📔 Created new repository [Daikifg/thirdRepo](https://github.com/Daikifg/thirdRepo)<br>
+4. ⬆️ Pushed 2 commit(s) to [Daikifg/myFourtyRepo](https://github.com/Daikifg/myFourtyRepo)<br>
+5. 🎉 Merged PR [#3](https://github.com/Daikifg/myFourtyRepo/pull/3) in [Daikifg/myFourtyRepo](https://github.com/Daikifg/myFourtyRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 6th, 2025, 1:21:59 PM
+Last Updated: Saturday, June 7th, 2025, 1:53:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
